@@ -1,0 +1,17 @@
+{
+  "name": "O2Jam World",
+  "short_name": "O2.World",
+  "icons": [
+    {
+      "src": "/assets/images/o2mo_peace.png",
+      "sizes": "170x170",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#3182CE",
+  "background_color": "#111111",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
