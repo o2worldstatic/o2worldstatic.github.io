@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://o2jam.world
+
+# Sitemaps
+Sitemap: https://o2jam.world/sitemap.xml
